@@ -1,0 +1,150 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.cus-button {
+    background-color: #233239;
+    color: white;
+    border-radius: 20px;
+    outline: 0;
+    border: 0;
+    height: 35;
+    width: 280;
+
+}
+
+.cus-button:hover {
+    background-color: #364850;
+
+}
+
+.btn-socmed {
+    background-color: transparent;
+    border-radius: 20px;
+    outline: 0;
+    border: 0;
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+}
+
+nav {
+    background-color: rgba(255, 255, 255, 0.048);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.hamburger {
+    background-color: transparent;
+    border-radius: 20px;
+    outline: 0;
+    border: 0;
+    font-size: 30px;
+    color: rgb(150, 150, 150);
+}
+
+.hamburger:hover {
+    color: rgb(219, 219, 219);
+}
+
+.main-cont {
+    background-color: #233239;
+    height: 600px;
+    width: 100%;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.centerEverything {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.txt-name {
+    font-weight: 800;
+    font-size: 80;
+}
+
+.tyer {
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+
+
+.element {
+    font-size: 50px;
+    position: absolute;
+    font-weight: 700;
+}
+
+#element-1 {
+    color: rgb(0, 0, 0);
+    z-index: 1;
+}
+
+#element-2 {
+    color: #FEB866;
+    margin: 35px 0 0 0px;
+    z-index: 2;
+}
+
+#element-3 {
+    color: #FEB866;
+    margin: 90px 0 0 0px;
+    z-index: 6;
+    width: 180;
+    align-items: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #212e35;
+    color: rgb(158, 158, 158);
+    text-align: center;
+    padding-top: 15;
+}
+
+.imagebg {
+    background: linear-gradient(180deg, #ffffff 65%, #233239 25%);
+}
+
+.imagebg1 {
+    background: linear-gradient(180deg, #233239 58%, #ffffff 42%);
+    padding-top: 230;
+}
+
+.about-images {
+    background-image: url('/resources/aboutImages.png');
+    background-repeat: cover;
+
+
+}
+
+/*  */
+
+.nav-link{
+    font-size: 30;
+    font-weight: 600;
+    text-decoration: none;
+    color: #233239;
+    font-family: 'Poppins', sans-serif;
+}

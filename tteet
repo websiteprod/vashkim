@@ -1,0 +1,63 @@
+   <div class="main-cont">
+
+        <div class="main-cont1">
+
+            <div class="text-center">
+                <div class="row">
+                    
+                    <div class="col-sm-12 col-md-12 col-lg-2 col-xl-2 col-xxl-2">
+                        <img class="img-fluid" src="resources/demoreel.png">
+                    </div>
+
+                    <div class="col-sm-12 col-md-12 col-lg-2 col-xl-2 col-xxl-2">
+                        <img class="img-fluid" src="resources/logokim.gif">
+                    </div>
+
+                    <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8 col-xxl-8">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                                    class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                                    aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                                    aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                            
+                                    <iframe width="70%" height="100%" src="https://www.youtube.com/embed/9emZBq1nRUQ" title="2020 3D animations Demo Reel | Vash Eliakim Films" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel-item">
+                
+                                    <iframe width="70%" height="100%" src="https://www.youtube.com/embed/1lsGLqR6Ztw" title="Explore my Virtual work magazine | Vash Eliakim Demo Reel 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel-item">
+                      
+                                    <iframe width="70%" height="100%" src="https://www.youtube.com/embed/T8qk1mw1RZk" title="Labindalawang Taon | Brooke&#39;s Point, Palawan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button"
+                                data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button"
+                                data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- <div class="col-sm-12 col-md-12 col-lg-2 col-xl-2 col-xxl-2">
+                        Column
+                    </div> -->
+                    
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
